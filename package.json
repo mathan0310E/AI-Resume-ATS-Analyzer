@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "jspdf": "^4.2.1",
+    "multer": "^2.2.0",
+    "pdf-parse": "^2.4.5",
+    "react-circular-progressbar": "^2.2.0"
+  }
+}
